@@ -5,7 +5,7 @@ after installing and drag expert in chart, you will see many diffrent objects :
 
 ![image_2024-01-20_15-16-28](https://github.com/adel2007/trade_manager/assets/75173278/1c67a77f-7a9b-4103-b8e9-e966d7f8cd66)
 
-1:this number will show your current p/l on the current symbol you opened
+1:this number will show your current p/l on the current symbol you opened  
 2:this number will show your p/l when the price hit your tp/sl
 3:this button will close your all open trades on the current symbol is on this chart
 4:this button will close your all open trades in all symbols
