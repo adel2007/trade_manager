@@ -1,3 +1,4 @@
+**newest version : https://github.com/adel2007/trade_manager/releases/tag/2024%2F3%2F24
 
 how to install : https://www.mql5.com/en/blogs/post/751359
 
